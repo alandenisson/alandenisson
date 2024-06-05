@@ -1,6 +1,9 @@
-## 👋 Olá, eu sou o Alan Denisson 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=header"/>
 
-### Dev Front-End
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=300&size=50&duration=4000&pause=1000&color=7FFFD4&center=true&vCenter=true&random=false&width=1000&font-weight=900&lines=Hello%2C+my+name+is+Alan+Denisson;I'm+a+Desenvolvedor+Front-End;I'm+from+Brazil;)](https://git.io/typing-svg)
+<br>
+<br>
+## 
 
 
 💻 Estudante e apaixonado pelo mundo da Tecnologia.
@@ -19,11 +22,23 @@
 <a href="https://www.linkedin.com/in/alandenisson/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Ferramentas e Tecnologias
+## Main skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-         
-                  
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+##  Github Stats
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alandenisson&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=00bfbf&text_color=15e5a6&bg_color=0d1117" alt="alandenisson github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandenisson&layout=compact&hide_border=true&title_color=fff&text_color=15e5a6&bg_color=0d1117" />
+</div>
+  <br><br>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alandenisson&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=footer"/>
 <!---
 alandenisson/alandenisson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
