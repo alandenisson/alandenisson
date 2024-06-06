@@ -30,12 +30,18 @@
 
 ##  Github Stats
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alandenisson&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=00bfbf&text_color=15e5a6&bg_color=0d1117" alt="alandenisson github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alandenisson&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=fff&icon_color=00bfbf&text_color=15e5a6&bg_color=0d1117" alt="alandenisson github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandenisson&layout=compact&hide_border=true&title_color=fff&text_color=15e5a6&bg_color=0d1117" />
+</div>
+><br>
+<div align="center">
+  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alandenisson&theme=neon&hide_&date_format=j%2Fn%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 </div>
   <br><br>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alandenisson&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=footer"/>
