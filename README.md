@@ -33,7 +33,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alandenisson&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=fff&icon_color=00bfbf&text_color=15e5a6&bg_color=0d1117" alt="alandenisson github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandenisson&layout=compact&hide_border=true&title_color=fff&text_color=15e5a6&bg_color=0d1117" />
 </div>
-><br>
+<br>
 <div align="center">
   
 
